@@ -48,6 +48,11 @@ button {
   border-radius: 8%;
 }
 
+button:hover {
+    background: #fff;
+    border: 1px solid #8e2de2;
+}
+
 .output {
   margin: -20px 0 20px 45px;
   font-family: monospace;
